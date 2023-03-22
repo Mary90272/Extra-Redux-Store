@@ -25,9 +25,14 @@ Open VsCode Terminal<br>
 This will start two  servers, one running react, the other running an express server that uses Apollo Graphql to serve as the back end. They are on localhost:3000 and localhost:3001 respectively.
 
 # Images of Deployed Application
+![alt text] (assets/screencapture-localhost-3000-2023-03-21-20_02_16.png)
+![alt text] (assets/screencapture-localhost-3000-2023-03-21-20_02_49.png)
+![alt text] (assets/screencapture-localhost-3000-2023-03-21-20_03_52.png)
+![alt text] (assets/screencapture-checkout-stripe-c-pay-cs-test-b1WArB63UbyyuTpG1sfjpgro3TkDNLUim0dQPY10sS7kwedyo8Teb7PVE5-2023-03-21-20_03_12.png)
 
 
 # Relevant Links
 
-GitHub Repo:
+GitHub Repo: https://github.com/Mary90272/Extra-Redux-Store
+<br>
 Deployed Application:
