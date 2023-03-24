@@ -35,4 +35,4 @@ This will start two  servers, one running react, the other running an express se
 
 GitHub Repo: https://github.com/Mary90272/Extra-Redux-Store
 <br>
-Deployed Application:
+Deployed Application: https://extra-redux.herokuapp.com/
